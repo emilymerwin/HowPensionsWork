@@ -4,7 +4,13 @@
 h4 {
 	font-size: 16px;
 }
+h4 img{
+	vertical-align: text-bottom;
+}
 .panel-heading {
 	padding: 5px 15px;
 }
+.footer {
+	font-size: 10px;
+	color: #c1c1c1;
 }
